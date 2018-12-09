@@ -1,4 +1,4 @@
-| [Stay Alive](https://github.com/AbeerRadwan/Stay-Alive-Demo-2018/tree/master/stay_alive/StayAlive2018) | Jelapi | facing disasters using VR | Licence | Saudi Arabia | [Abeer Radwan] (https://github.com/AbeerRadwan) |
+| [Stay Alive](https://github.com/AbeerRadwan/Stay-Alive-Demo-2018/tree/master/stay_alive/StayAlive2018) | Jelapi | facing disasters using VR | Licence | Saudi Arabia | [Abeer Radwan](https://github.com/AbeerRadwan) |
 
 
 
