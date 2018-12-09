@@ -1,0 +1,16 @@
+3d Polygon Model of Simple Plant
+
+Features:
+
+Geometry - Polygons  ( Faces - 11334  Vertices - 12270 ) 
+
+Available formats  Autodesk FBX,    Maya binary .mb
+
+Diffuse and Bump Maps
+
+Rendered using Maya 2011
+
+www.animatedheaven.snappages.com
+
+
+ 

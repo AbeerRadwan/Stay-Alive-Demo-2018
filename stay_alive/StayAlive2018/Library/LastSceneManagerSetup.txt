@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/firstScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Layout Groups.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/guide.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/test_menu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scene1.1+timer+distance.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scene2.1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Kitchen/Scenes/Score.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/endingScene.unity
+  isLoaded: 0
+  isActive: 0

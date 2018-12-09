@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 6f92b6dabd5d9b542ae3f2cab020456b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Box020
+    100024: Box021
+    100026: Box022
+    100028: Box023
+    100030: Box024
+    100032: Box025
+    100034: Box026
+    100036: Cylinder001
+    100038: Cylinder002
+    100040: Cylinder003
+    100042: Cylinder004
+    100044: Cylinder005
+    100046: Cylinder006
+    100048: Cylinder007
+    100050: Cylinder008
+    100052: Cylinder009
+    100054: Cylinder010
+    100056: Cylinder011
+    100058: Cylinder012
+    100060: Cylinder013
+    100062: Cylinder014
+    100064: Cylinder015
+    100066: Cylinder016
+    100068: Cylinder017
+    100070: Cylinder018
+    100072: Cylinder019
+    100074: Cylinder020
+    100076: Cylinder021
+    100078: Cylinder022
+    100080: Cylinder023
+    100082: Cylinder024
+    100084: Cylinder025
+    100086: Cylinder026
+    100088: Cylinder027
+    100090: Cylinder028
+    100092: Cylinder029
+    100094: Cylinder030
+    100096: Cylinder031
+    100098: Cylinder032
+    100100: Cylinder033
+    100102: Cylinder034
+    100104: Cylinder035
+    100106: Cylinder036
+    100108: Cylinder037
+    100110: Cylinder038
+    100112: Cylinder039
+    100114: Cylinder040
+    100116: Cylinder041
+    100118: Cylinder042
+    100120: Cylinder043
+    100122: Cylinder044
+    100124: Cylinder045
+    100126: Cylinder046
+    100128: Cylinder047
+    100130: Cylinder048
+    100132: Cylinder049
+    100134: Cylinder050
+    100136: Cylinder051
+    100138: Cylinder052
+    100140: //RootNode
+    100142: bottle1
+    100144: bottle2
+    100146: bottle3
+    100148: cap
+    100150: cap001
+    100152: cap002
+    100154: cap003
+    100156: cap004
+    100158: cap005
+    100160: cap006
+    100162: cap007
+    100164: cap008
+    100166: cap009
+    100168: cap010
+    100170: chair
+    100172: chair 1
+    100174: chair 2
+    100176: char
+    100178: char 1
+    100180: char 2
+    100182: char 3
+    100184: cupboard1
+    100186: cupboard2
+    100188: cupboard3
+    100190: cupboard4
+    100192: desk
+    100194: desk 1
+    100196: dryer
+    100198: exhaust
+    100200: ice
+    100202: light_big
+    100204: light_big 1
+    100206: light_big 2
+    100208: light_big 3
+    100210: light_small
+    100212: light_small001
+    100214: light_small002
+    100216: light_small003
+    100218: light_small004
+    100220: light_small005
+    100222: microwave
+    100224: onoff
+    100226: painting
+    100228: painting2
+    100230: pan
+    100232: pan 1
+    100234: pan 2
+    100236: pan 3
+    100238: paper
+    100240: plank
+    100242: plank 1
+    100244: plate
+    100246: room
+    100248: shelf1
+    100250: shelf2
+    100252: sink
+    100254: table
+    100256: vent
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Box020
+    400024: Box021
+    400026: Box022
+    400028: Box023
+    400030: Box024
+    400032: Box025
+    400034: Box026
+    400036: Cylinder001
+    400038: Cylinder002
+    400040: Cylinder003
+    400042: Cylinder004
+    400044: Cylinder005
+    400046: Cylinder006
+    400048: Cylinder007
+    400050: Cylinder008
+    400052: Cylinder009
+    400054: Cylinder010
+    400056: Cylinder011
+    400058: Cylinder012
+    400060: Cylinder013
+    400062: Cylinder014
+    400064: Cylinder015
+    400066: Cylinder016
+    400068: Cylinder017
+    400070: Cylinder018
+    400072: Cylinder019
+    400074: Cylinder020
+    400076: Cylinder021
+    400078: Cylinder022
+    400080: Cylinder023
+    400082: Cylinder024
+    400084: Cylinder025
+    400086: Cylinder026
+    400088: Cylinder027
+    400090: Cylinder028
+    400092: Cylinder029
+    400094: Cylinder030
+    400096: Cylinder031
+    400098: Cylinder032
+    400100: Cylinder033
+    400102: Cylinder034
+    400104: Cylinder035
+    400106: Cylinder036
+    400108: Cylinder037
+    400110: Cylinder038
+    400112: Cylinder039
+    400114: Cylinder040
+    400116: Cylinder041
+    400118: Cylinder042
+    400120: Cylinder043
+    400122: Cylinder044
+    400124: Cylinder045
+    400126: Cylinder046
+    400128: Cylinder047
+    400130: Cylinder048
+    400132: Cylinder049
+    400134: Cylinder050
+    400136: Cylinder051
+    400138: Cylinder052
+    400140: //RootNode
+    400142: bottle1
+    400144: bottle2
+    400146: bottle3
+    400148: cap
+    400150: cap001
+    400152: cap002
+    400154: cap003
+    400156: cap004
+    400158: cap005
+    400160: cap006
+    400162: cap007
+    400164: cap008
+    400166: cap009
+    400168: cap010
+    400170: chair
+    400172: chair 1
+    400174: chair 2
+    400176: char
+    400178: char 1
+    400180: char 2
+    400182: char 3
+    400184: cupboard1
+    400186: cupboard2
+    400188: cupboard3
+    400190: cupboard4
+    400192: desk
+    400194: desk 1
+    400196: dryer
+    400198: exhaust
+    400200: ice
+    400202: light_big
+    400204: light_big 1
+    400206: light_big 2
+    400208: light_big 3
+    400210: light_small
+    400212: light_small001
+    400214: light_small002
+    400216: light_small003
+    400218: light_small004
+    400220: light_small005
+    400222: microwave
+    400224: onoff
+    400226: painting
+    400228: painting2
+    400230: pan
+    400232: pan 1
+    400234: pan 2
+    400236: pan 3
+    400238: paper
+    400240: plank
+    400242: plank 1
+    400244: plate
+    400246: room
+    400248: shelf1
+    400250: shelf2
+    400252: sink
+    400254: table
+    400256: vent
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box009
+    2300016: Box010
+    2300018: Box011
+    2300020: Box020
+    2300022: Box021
+    2300024: Box022
+    2300026: Box023
+    2300028: Box024
+    2300030: Box025
+    2300032: Box026
+    2300034: Cylinder001
+    2300036: Cylinder002
+    2300038: Cylinder003
+    2300040: Cylinder004
+    2300042: Cylinder005
+    2300044: Cylinder006
+    2300046: Cylinder007
+    2300048: Cylinder008
+    2300050: Cylinder009
+    2300052: Cylinder010
+    2300054: Cylinder011
+    2300056: Cylinder012
+    2300058: Cylinder013
+    2300060: Cylinder014
+    2300062: Cylinder015
+    2300064: Cylinder016
+    2300066: Cylinder017
+    2300068: Cylinder018
+    2300070: Cylinder019
+    2300072: Cylinder020
+    2300074: Cylinder021
+    2300076: Cylinder022
+    2300078: Cylinder023
+    2300080: Cylinder024
+    2300082: Cylinder025
+    2300084: Cylinder026
+    2300086: Cylinder027
+    2300088: Cylinder028
+    2300090: Cylinder029
+    2300092: Cylinder030
+    2300094: Cylinder031
+    2300096: Cylinder032
+    2300098: Cylinder033
+    2300100: Cylinder034
+    2300102: Cylinder035
+    2300104: Cylinder036
+    2300106: Cylinder037
+    2300108: Cylinder038
+    2300110: Cylinder039
+    2300112: Cylinder040
+    2300114: Cylinder041
+    2300116: Cylinder042
+    2300118: Cylinder043
+    2300120: Cylinder044
+    2300122: Cylinder045
+    2300124: Cylinder046
+    2300126: Cylinder047
+    2300128: Cylinder048
+    2300130: Cylinder049
+    2300132: Cylinder050
+    2300134: Cylinder051
+    2300136: Cylinder052
+    2300138: bottle1
+    2300140: bottle2
+    2300142: bottle3
+    2300144: cap
+    2300146: cap001
+    2300148: cap002
+    2300150: cap003
+    2300152: cap004
+    2300154: cap005
+    2300156: cap006
+    2300158: cap007
+    2300160: cap008
+    2300162: cap009
+    2300164: cap010
+    2300166: chair
+    2300168: chair 1
+    2300170: chair 2
+    2300172: char
+    2300174: char 1
+    2300176: char 2
+    2300178: char 3
+    2300180: cupboard1
+    2300182: cupboard2
+    2300184: cupboard3
+    2300186: cupboard4
+    2300188: desk
+    2300190: desk 1
+    2300192: dryer
+    2300194: exhaust
+    2300196: ice
+    2300198: light_big
+    2300200: light_big 1
+    2300202: light_big 2
+    2300204: light_big 3
+    2300206: light_small
+    2300208: light_small001
+    2300210: light_small002
+    2300212: light_small003
+    2300214: light_small004
+    2300216: light_small005
+    2300218: microwave
+    2300220: onoff
+    2300222: painting
+    2300224: painting2
+    2300226: pan
+    2300228: pan 1
+    2300230: pan 2
+    2300232: pan 3
+    2300234: paper
+    2300236: plank
+    2300238: plank 1
+    2300240: plate
+    2300242: room
+    2300244: shelf1
+    2300246: shelf2
+    2300248: sink
+    2300250: table
+    2300252: vent
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box009
+    3300016: Box010
+    3300018: Box011
+    3300020: Box020
+    3300022: Box021
+    3300024: Box022
+    3300026: Box023
+    3300028: Box024
+    3300030: Box025
+    3300032: Box026
+    3300034: Cylinder001
+    3300036: Cylinder002
+    3300038: Cylinder003
+    3300040: Cylinder004
+    3300042: Cylinder005
+    3300044: Cylinder006
+    3300046: Cylinder007
+    3300048: Cylinder008
+    3300050: Cylinder009
+    3300052: Cylinder010
+    3300054: Cylinder011
+    3300056: Cylinder012
+    3300058: Cylinder013
+    3300060: Cylinder014
+    3300062: Cylinder015
+    3300064: Cylinder016
+    3300066: Cylinder017
+    3300068: Cylinder018
+    3300070: Cylinder019
+    3300072: Cylinder020
+    3300074: Cylinder021
+    3300076: Cylinder022
+    3300078: Cylinder023
+    3300080: Cylinder024
+    3300082: Cylinder025
+    3300084: Cylinder026
+    3300086: Cylinder027
+    3300088: Cylinder028
+    3300090: Cylinder029
+    3300092: Cylinder030
+    3300094: Cylinder031
+    3300096: Cylinder032
+    3300098: Cylinder033
+    3300100: Cylinder034
+    3300102: Cylinder035
+    3300104: Cylinder036
+    3300106: Cylinder037
+    3300108: Cylinder038
+    3300110: Cylinder039
+    3300112: Cylinder040
+    3300114: Cylinder041
+    3300116: Cylinder042
+    3300118: Cylinder043
+    3300120: Cylinder044
+    3300122: Cylinder045
+    3300124: Cylinder046
+    3300126: Cylinder047
+    3300128: Cylinder048
+    3300130: Cylinder049
+    3300132: Cylinder050
+    3300134: Cylinder051
+    3300136: Cylinder052
+    3300138: bottle1
+    3300140: bottle2
+    3300142: bottle3
+    3300144: cap
+    3300146: cap001
+    3300148: cap002
+    3300150: cap003
+    3300152: cap004
+    3300154: cap005
+    3300156: cap006
+    3300158: cap007
+    3300160: cap008
+    3300162: cap009
+    3300164: cap010
+    3300166: chair
+    3300168: chair 1
+    3300170: chair 2
+    3300172: char
+    3300174: char 1
+    3300176: char 2
+    3300178: char 3
+    3300180: cupboard1
+    3300182: cupboard2
+    3300184: cupboard3
+    3300186: cupboard4
+    3300188: desk
+    3300190: desk 1
+    3300192: dryer
+    3300194: exhaust
+    3300196: ice
+    3300198: light_big
+    3300200: light_big 1
+    3300202: light_big 2
+    3300204: light_big 3
+    3300206: light_small
+    3300208: light_small001
+    3300210: light_small002
+    3300212: light_small003
+    3300214: light_small004
+    3300216: light_small005
+    3300218: microwave
+    3300220: onoff
+    3300222: painting
+    3300224: painting2
+    3300226: pan
+    3300228: pan 1
+    3300230: pan 2
+    3300232: pan 3
+    3300234: paper
+    3300236: plank
+    3300238: plank 1
+    3300240: plate
+    3300242: room
+    3300244: shelf1
+    3300246: shelf2
+    3300248: sink
+    3300250: table
+    3300252: vent
+    4300000: Box001
+    4300002: Box002
+    4300004: Box003
+    4300006: Box004
+    4300008: Box005
+    4300010: Box006
+    4300012: Box007
+    4300014: Box009
+    4300016: Box010
+    4300018: Cylinder001
+    4300020: Cylinder002
+    4300022: Cylinder003
+    4300024: Cylinder004
+    4300026: Cylinder005
+    4300028: Cylinder006
+    4300030: Cylinder007
+    4300032: Cylinder008
+    4300034: Cylinder009
+    4300036: Cylinder010
+    4300038: Cylinder011
+    4300040: Cylinder012
+    4300042: Cylinder013
+    4300044: Cylinder014
+    4300046: Cylinder015
+    4300048: Cylinder016
+    4300050: Cylinder017
+    4300052: Cylinder018
+    4300054: Cylinder019
+    4300056: Cylinder020
+    4300058: Cylinder021
+    4300060: Cylinder022
+    4300062: Cylinder023
+    4300064: Cylinder024
+    4300066: Cylinder025
+    4300068: Cylinder026
+    4300070: Cylinder027
+    4300072: Cylinder028
+    4300074: Cylinder029
+    4300076: Cylinder030
+    4300078: Cylinder031
+    4300080: Cylinder032
+    4300082: Cylinder033
+    4300084: Cylinder034
+    4300086: Cylinder035
+    4300088: Cylinder036
+    4300090: Cylinder037
+    4300092: Cylinder038
+    4300094: Cylinder039
+    4300096: Box011
+    4300098: Cylinder040
+    4300100: Cylinder041
+    4300102: Cylinder042
+    4300104: Cylinder043
+    4300106: Cylinder044
+    4300108: Cylinder045
+    4300110: Cylinder046
+    4300112: Cylinder047
+    4300114: Cylinder048
+    4300116: Box020
+    4300118: Cylinder049
+    4300120: Box021
+    4300122: Cylinder050
+    4300124: Box022
+    4300126: Box023
+    4300128: Box024
+    4300130: Box025
+    4300132: Box026
+    4300134: Cylinder051
+    4300136: Cylinder052
+    4300138: sink
+    4300140: plate
+    4300142: cupboard1
+    4300144: cupboard2
+    4300146: cupboard3
+    4300148: shelf1
+    4300150: shelf2
+    4300152: exhaust
+    4300154: room
+    4300156: paper
+    4300158: cupboard4
+    4300160: light_big
+    4300162: light_big
+    4300164: light_big
+    4300166: light_big
+    4300168: desk
+    4300170: light_small
+    4300172: light_small001
+    4300174: light_small002
+    4300176: light_small003
+    4300178: light_small004
+    4300180: light_small005
+    4300182: onoff
+    4300184: vent
+    4300186: ice
+    4300188: pan
+    4300190: pan
+    4300192: pan
+    4300194: pan
+    4300196: table
+    4300198: chair
+    4300200: chair
+    4300202: chair
+    4300204: dryer
+    4300206: cap
+    4300208: cap001
+    4300210: cap002
+    4300212: cap003
+    4300214: cap004
+    4300216: cap005
+    4300218: cap006
+    4300220: cap007
+    4300222: desk
+    4300224: plank
+    4300226: char
+    4300228: char
+    4300230: char
+    4300232: char
+    4300234: painting
+    4300236: microwave
+    4300238: cap008
+    4300240: cap009
+    4300242: cap010
+    4300244: painting2
+    4300246: plank
+    4300248: bottle1
+    4300250: bottle2
+    4300252: bottle3
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #635'
+    second: {fileID: 2100000, guid: 2f35f23a2012daf49b71aa154ec5b23a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #759'
+    second: {fileID: 2100000, guid: 950f1a3e960a27d42bf8199651aaeab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cap
+    second: {fileID: 2100000, guid: e704a0cdf9125b64ebf59da48dd73bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: f3fc472544441174da6fc8f9e3b4f090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey
+    second: {fileID: 2100000, guid: e22c0983429675148b909aec500fc0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_mirror
+    second: {fileID: 2100000, guid: 4be748e4e5bce804aa57076a881d6f85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 459f912340efdae45a7b4113d7d4d1f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 3e71f8e773d004b43a49e87725b655a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange
+    second: {fileID: 2100000, guid: 35422c1cdb1d6b44c991c9302bd2eef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 680dda13e3128ba4ba4b61f7b8c4776b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
